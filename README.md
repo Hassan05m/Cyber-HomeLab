@@ -1,20 +1,24 @@
 <h1>Cybersecurity HomeLab</h1>
 
-<h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+<h2> 🔹 Project Overview</h2>
+I built a cyber hone lab using VirtualBox to simulate a controlled environment for practicing cybersecurity and digital forensics techniques. The lab consists of multiple virtual machines running different operating systems and connected on an internal network to replicate real-world scenarios.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2> 🔹Environments and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>VirtualBox (hypervisor)</b> 
+- <b>Kali Linux – penetration testing & offensive security tools</b>
+- <b>Windows 10 – target machine, same internal network as Kali</b>
+- <b>Windows 7 – legacy system for vulnerability testing</b>
+- <b>Ubuntu – server environment for practice and testing</b>
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+<h2> 🔹Languages Used </h2>
 
-<h2>Program walk-through:</h2>
+- <b> Linux </b> 
+
+<h2> 🔹 Program walk-through:</h2>
 
 <p align="center">
 Launch the utility: <br/>
