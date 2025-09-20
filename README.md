@@ -29,24 +29,23 @@ installed the various OS systems:  <br/>
 <img src="https://imgur.com/Idw1OJR.png" height="80%" width="80%" alt="Cyber Lab"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Cyber Lab"/>
+Setting up the Network:
+ I configured both my windows 10 vm and kali linux vm to a custom internal network named HomeLab <br/>
+<img src="https://imgur.com/IjoX2h0.png" height="80%" width="80%" alt="Cyber Lab"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Cyber Lab"/>
+Accessing the VMs:  <br/>
+<img src="https://imgur.com/UG4UoU3.png" height="80%" width="80%" alt="Cyber Lab"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Cyber Lab"/>
+Accessing Kali Linux(both vms i get the IP address):  <br/>
+<img src="https://imgur.com/5VZBAaa.png" height="80%" width="80%" alt="Cyber Lab"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Cyber Lab"/>
+Completed Pinging the Windows VM:  <br/>
+<img src="https://imgur.com/IQxyu9U.png" height="80%" width="80%" alt="Cyber Lab"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Cyber Lab"/>
 </p>
 
 <!--
